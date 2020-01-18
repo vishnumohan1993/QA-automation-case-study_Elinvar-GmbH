@@ -1,0 +1,1 @@
+# QA-automation-case-study_Elinvar-GmbH
